@@ -1,4 +1,4 @@
-![yes](https://upload.wikimedia.org/wikipedia/commons/c/c1/BSoD_in_Windows_1.0.png)
+![https://upload.wikimedia.org/wikipedia/commons/c/c1/BSoD_in_Windows_1.0.png](https://upload.wikimedia.org/wikipedia/commons/c/c1/BSoD_in_Windows_1.0.png?20090827224927))
 
 # 🦅'MURICAAAA
 
