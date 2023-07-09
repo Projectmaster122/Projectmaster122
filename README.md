@@ -5,20 +5,20 @@
 <img  align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Projectmaster122&theme=discord_old_blurple&layout=compact" />
 
 
-# 👨‍💻likes to code in: 
+## 👨‍💻likes to code in: 
 
-## go,
-## rust,
-## c#,
-## c
+### go,
+### rust,
+### c#,
+### c
 
-# 🪟favourite web framework:
+## 🪟favourite web framework:
 
-## svelte with ts
+### svelte with ts
 
 
-# 👎Disliked languages:
+## 👎Disliked languages:
 
-## C++,
-## Kotlin,
-## Haskell
+### C++,
+### Kotlin,
+### Haskell
