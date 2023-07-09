@@ -1,4 +1,4 @@
-![yes](https://tenor.com/view/windows1-vintage-bsod-gif-19815084)
+![yes](https://upload.wikimedia.org/wikipedia/commons/c/c1/BSoD_in_Windows_1.0.png)
 
 # 🦅'MURICAAAA
 
