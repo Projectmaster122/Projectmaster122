@@ -1,3 +1,5 @@
+![yes](https://tenor.com/view/windows1-vintage-bsod-gif-19815084)
+
 # 🦅'MURICAAAA
 
 
