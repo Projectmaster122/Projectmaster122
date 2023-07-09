@@ -1,16 +1,23 @@
-#Welcome!
+#🦅'MURICAAAA
 
 
-#C++ should be discontinued
 
-#rust ftw
+#👨‍💻likes to code in: 
 
-#react bad
+#go,
+#rust,
+#c#,
+#c
 
-#svelte good
+#🪟favourite web framework:
 
-#go good
+#svelte with:
 
-#i suck at this
+##typescript
 
-#hao to this
+
+#👎Disliked languages:
+
+C++,
+Kotlin,
+Haskell
