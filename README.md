@@ -4,20 +4,18 @@
 
 # 👨‍💻likes to code in: 
 
-# go,
-# rust,
-# c#,
-# c
+## go,
+## rust,
+## c#,
+## c
 
 # 🪟favourite web framework:
 
-# svelte with:
-
-## typescript
+##svelte with ts
 
 
 # 👎Disliked languages:
 
-C++,
-Kotlin,
-Haskell
+##C++,
+##Kotlin,
+##Haskell
