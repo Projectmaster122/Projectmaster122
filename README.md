@@ -24,3 +24,8 @@
   ### Kotlin,
   ### Haskell
 
+
+You can contact me on:
+
+-  Discord: fakietf
+-  Reddit: teddertlool5
