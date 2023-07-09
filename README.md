@@ -1,4 +1,4 @@
-![https://upload.wikimedia.org/wikipedia/commons/c/c1/BSoD_in_Windows_1.0.png](https://upload.wikimedia.org/wikipedia/commons/c/c1/BSoD_in_Windows_1.0.png?20090827224927))
+![bsod](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BSOD_Windows_8.svg/800px-BSOD_Windows_8.svg.png?20200204115015)
 
 # 🦅'MURICAAAA
 
