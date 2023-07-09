@@ -11,11 +11,11 @@
 
 # 🪟favourite web framework:
 
-##svelte with ts
+## svelte with ts
 
 
 # 👎Disliked languages:
 
-##C++,
-##Kotlin,
-##Haskell
+## C++,
+## Kotlin,
+## Haskell
