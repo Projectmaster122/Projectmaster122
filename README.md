@@ -1,22 +1,22 @@
-#🦅'MURICAAAA
+# 🦅'MURICAAAA
 
 
 
-#👨‍💻likes to code in: 
+# 👨‍💻likes to code in: 
 
-#go,
-#rust,
-#c#,
-#c
+# go,
+# rust,
+# c#,
+# c
 
-#🪟favourite web framework:
+# 🪟favourite web framework:
 
-#svelte with:
+# svelte with:
 
-##typescript
+## typescript
 
 
-#👎Disliked languages:
+# 👎Disliked languages:
 
 C++,
 Kotlin,
