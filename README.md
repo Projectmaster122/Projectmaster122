@@ -1,4 +1,4 @@
-![bsod](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BSOD_Windows_8.svg/800px-BSOD_Windows_8.svg.png?20200204115015)
+![bsod]((https://geeksocket.in/blog/wp-content/uploads/2016/06/windows-10-bsods-.jpg))
 
 # 🦅'MURICAAAA
 
