@@ -1,4 +1,5 @@
-![bsod]((https://geeksocket.in/blog/wp-content/uploads/2016/06/windows-10-bsods-.jpg))
+![bsod](https://github.com/Projectmaster122/Projectmaster122/assets/68382320/ad0702ab-bc92-4b3e-8995-1dede2a5acd5)
+
 
 # 🦅'MURICAAAA
 
