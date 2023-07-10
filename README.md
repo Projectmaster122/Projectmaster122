@@ -25,8 +25,10 @@
   ### Kotlin,
   ### Haskell
 
+<br>
+<br>
 
-You can contact me on:
+# You can contact me on:
 
--  Discord: fakietf
--  Reddit: teddertlool5
+### -  Discord: fakietf
+### -  Reddit: teddertlool5
