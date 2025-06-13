@@ -3,18 +3,14 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Projectmaster122&show_icons=true&theme=discord_old_blurple"/>
 <img  align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Projectmaster122&theme=discord_old_blurple&layout=compact" />
 
-My name is Fakie, im from Israel, but also American, my favorite languages are C#, Rust, and C.
+<br>
+helloes! i am Fakie, an israeli-american software engineer.
+im currently unemployed, but then again i am 13 lol.
 
-Sometimes I also code in C++ (even though i dont like it too much), Go, Python, Svelte, HTML, CSS, and TS (although i also use javascript).
+i code in mainly rust, but also use C, and python.
 
-I Co-Own Sova (Sova Software, https://sovasoftware.net).
+i am not the biggest fan of c++ however... (syntax is a pain)
 
-I also am an Air Traffic Controller on the network IVAO (VID 720740). I am rated AS3. I also play chess.
+i do virtual air traffic control and play chess every now and then.
 
-You can contact me via:
-
-Discord: @fakietf
-Reddit: u/teddertlool5
-Email: marshmello@sovasoftware.net
-
-Hope whoevere reads this has a great day! Cheers!
+thanks for reading, cya!
